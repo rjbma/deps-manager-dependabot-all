@@ -9,7 +9,7 @@
   },
   "scripts": {},
   "dependencies": {
-    "express-openapi-validator": "^5.0.1",
+    "express-openapi-validator": "^5.0.4",
     "got": "^12.5.3",
     "react-scripts": "^5.0.1"
   }
